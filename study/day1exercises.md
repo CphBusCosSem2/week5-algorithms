@@ -5,10 +5,10 @@
 Import the file “Collections and Efficiency – demo.zip” (from Fronter) and open the project “time_measure_demo”.
 
 *	Run the program “MeasureSimpleCode”. Compare your observations with your neighbours.
-..* What can be concluded?
+  * What can be concluded?
 
 *	Run with different values of ‘n’. Observe how the execution time varies with “n”.
-..* Conclusion?
+  * Conclusion?
 
 Note: In this project we have disabled the "Just-in-time compilation”. In NetBeans this is done by:
 
@@ -18,9 +18,9 @@ set ”VM Options”  to  ”-Djava.compiler=NONE” > OK
 ##Exercise 2 (another “algorithm”)
 
 Now, add the statement below to the loop in exercise 1 and figure out how execution time varies with “n” after the change.
-
-...n = n/2;
-
+```java
+n = n/2;
+```
 Conclusion?
 
 ##Exercise 3 (Time complexity – ‘Big O’ – notation)
@@ -79,9 +79,9 @@ Suppose an algorithm A takes 5 seconds to handle a dataset of 1000 elements. Fil
 
 For the following expressions, what is the order of growth (time complexity) of each?
 
-1.	n2+ 2n + 1
-2.	n10 + 9n9 + 20n8 + 145n7
-3.	n + (0.001)n3
+1.	n<sup>2</sup>+ 2n + 1
+2.	n<sup>10</sup> + 9n<sup>9</sup> + 20n<sup>8</sup> + 145n<sup>7</sup>
+3.	n + (0.001)n<sup>3</sup>
 4.	n + log(n)
 
 ##Exercise 7 (classic search algorithms)
