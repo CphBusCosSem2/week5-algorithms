@@ -78,12 +78,47 @@ Suppose an algorithm A takes 5 seconds to handle a dataset of 1000 elements. Fil
 ##Exercise 6 (Time complexity)
 
 For the following expressions, what is the order of growth (time complexity) of each?
+
 1.	n2+ 2n + 1
 2.	n10 + 9n9 + 20n8 + 145n7
 3.	n + (0.001)n3
 4.	n + log(n)
 
+##Exercise 7 (classic search algorithms)
+
+1.	Run the program  “MeasureAlgorithm” several times with varying values for both ‘n’ and ‘target’.
+
+ What can you conclude about the expected execution time and its dependence on ‘n’ and ‘target’ ?
+
+2.	Use  “BinarySearch” and repeat.
+
+##Exercise 8
+
+Make a “benchmark”-test between ArrayList and LinkedList.
+
+###a) 
+Create an ArrayList and a LinkedList and fill both with ‘n’ Integers. Then measure the execution time on both lists for several calls to 
+```java
+add(index, 1) 
+```
+where ‘index’ refers to the first, the middle and the last element respectively
+
+Draw relevant conclusions from your observations: Describe a situation where you would prefer a LinkedList rather than an ArrayList?
+
+Hint: Remember to disable the "Just-in-time compilation” – see exercise 1.
 
 
+###b)
+Measure actual execution times for sorting a large number of elements in ArrayLists and LinkedLists using the method Collecions.sort().
+
+Hint: Take care to include only the sorting code in the actual measurement.
+
+Hint2: Read the documentation for the implementation of the sort() method. In some versions of Java, the list is copied to an array before sorting. What does this imply for the execution times?  
+
+##Exercise 9
+
+Include a HashMap in the “benchmark”-test from exercise 8a) using the method put(key, value). 
+
+Are the execution times obtained in agreement with the growth rate _O_(1)?
 
 
