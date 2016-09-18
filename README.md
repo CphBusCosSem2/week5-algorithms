@@ -5,7 +5,7 @@ Topics: Algorithms, Recursion, Collections and Complexity
 ###Readings:
 
 * [Theory of algorithms & big-O notation](study/ComparingAlgorithms-ComplexityTheory.pdf)
-* [How to measure execution time in Java](SestoftMicrobenchmarking.pdf)
+* [How to measure execution time in Java](study/SestoftMicrobenchmarking.pdf)
 
 ##Day 1 - Collections and efficiency
 The goal is to get an understanding of how one views efficiency of computer programs. 
