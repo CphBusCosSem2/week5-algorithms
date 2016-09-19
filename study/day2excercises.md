@@ -8,8 +8,7 @@
 4. Sketch a (new) binary search tree after insertion of the numbers [ 1,2,3,4,5,6 ]
 5. Order the insertion of the numbers [1,2,3,4,5,6,7 ] into an empty tree, so that the 
 resulting tree will have the minimal height possible.
-6. Go to http://nova.umuc.edu/~jarc/idsv/ and play a bit with “Traversals” > “Start Exercises”.
-Make a tree. Traverse the tree Preorder, Inorder and Postorder.
+6. Go to <https://www.khanacademy.org/computer-programming/depth-first-traversals-of-binary-trees/934024358>. Try to figure out what is the difference between traversing the tree in Preorder, Inorder and Postorder.
 7. State the order in which the nodes will be visited if the tree from exercise 4 is traversed following the principle inorder, preorder and postorder principle respectively.
 
   Import the class BinaryTree.java from the note* (**“Recursion and Binary Trees – demo code.zip” / Fronter**).
