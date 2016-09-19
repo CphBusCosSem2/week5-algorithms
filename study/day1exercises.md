@@ -2,7 +2,7 @@
 
 ##Exercise 1 (measure execution time)
 
-Import the file “Collections and Efficiency – demo.zip” (from Fronter) and open the project “time_measure_demo”.
+Open the project “Collections and Efficiency – demo”  and open the project “time_measure_demo”.
 
 *	Run the program “MeasureSimpleCode”. Compare your observations with your neighbours.
   * What can be concluded?
