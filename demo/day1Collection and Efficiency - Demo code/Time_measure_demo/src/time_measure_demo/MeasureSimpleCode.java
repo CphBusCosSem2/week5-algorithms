@@ -12,18 +12,17 @@ public class MeasureSimpleCode {
 
     public static void main( String[] args ) {
         //for ( int kk = 0; kk < 15; kk++ ) {
-            long n = 1_000_000_000_000_000_000L;  // "problem size - initial value = 10000"
+            long n = 100_000L;  // "problem size - initial value = 10000"
 
             long startTime = System.nanoTime();
-
+            List<Integer> l = new LinkedList<>();
             //---- measure start ---------------                
-            for ( long i = 0; i < n; i++ ) {
-                Math.sqrt( i ); 
+            for ( int i = 0; i < n; i++ ) {
+                l.get(i);
                 //int a = 0;
-                n = n / 2;
+                //n = n / 2;
             }
             //---- measure end -----------------  
-
             long executionTime = System.nanoTime() - startTime;
             //-- present result
             System.out.println( "Time elapsed (micro sec): " + executionTime / 1000 );
