@@ -3,9 +3,6 @@ package binarysearchtreedemo;
 public class BinaryTreeApp
 {
 
-    /**
-     * @param args
-     */
     public static void main(String[] args)
     {
         BinaryTree bt = new BinaryTree();
