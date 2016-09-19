@@ -20,7 +20,7 @@ We did not manage to get to hash tables yesterday, so we will start with that
 ###Readings:
 The video's from Lynda.com gives the basics.
 
-* [Hashing & Hashmaps](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-associative-arrays/149042/177125-4.html?org=cphbusiness.dk) - this section and the next two (three sections total).
+* [Hashing & Hashmaps](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-associative-arrays/149042/177125-4.html?org=cphbusiness.dk) - this section and the next two (three sections total "Using associative arrays", "Understanding hash functions" and "Using hash tables").
 * [Binary tree](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Introduction-tree-data-structures/149042/177132-4.html?org=cphbusiness.dk) and [Binary Search Tree](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Understanding-binary-search-trees-BST/149042/177133-4.html?org=cphbusiness.dk) are well explained in these two sections at Linda.com
 
 ###Exercises:
