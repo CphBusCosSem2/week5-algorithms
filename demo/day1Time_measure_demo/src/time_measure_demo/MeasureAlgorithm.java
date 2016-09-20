@@ -11,7 +11,7 @@ public class MeasureAlgorithm
 
     public static void main(String[] args)
     {
-        int n = 1_000_000;             // problem size
+        int n = 100000;             // problem size
         int target = n-1;           // search target
         int[] list = new int[n];
         // fill list
@@ -24,8 +24,7 @@ public class MeasureAlgorithm
         
         long startTime = System.nanoTime();
         //---- code to measure start ---------------        
-        //int result = Searching.linearSearch(list, target);
-        int result = Searching.binarySearch(list, target);
+        int result = Searching.linearSearch(list, target);
         //---- code to measure end -----------------           
         long executionTime = System.nanoTime() - startTime;
 
