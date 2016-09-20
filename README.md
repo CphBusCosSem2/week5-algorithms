@@ -26,7 +26,7 @@ The video's from Lynda.com gives the basics.
 * [Binary tree](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Introduction-tree-data-structures/149042/177132-4.html?org=cphbusiness.dk) and [Binary Search Tree](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Understanding-binary-search-trees-BST/149042/177133-4.html?org=cphbusiness.dk) are well explained in these two sections at Linda.com
 
 ###Exercises:
-* [Exercises from day2](../study/day2exercises.md)
+* [Exercises from day2](study/day2excercises.md)
 
 ##Day 3 - Recursive sorting algorithms
 Sorting is one of the most important fundamental issues in computing - we will look at some of the recursive sorting algorithms.
