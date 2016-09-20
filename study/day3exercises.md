@@ -1,14 +1,12 @@
 #Day 3 exercises
 ##Exercise 1.
 
-Execute the animation (<http://www.yorku.ca/sychen/research/sorting/quicksortApplet.html>)
+Execute the animation for bubble sort on this page(<http://visualgo.net/sorting>)
 several times until you understand the principle behind the algorithm.
 
-Hint: Use ”Step” to show clarifying text.
+Next, try to figure out the principle behind QuickSort
 
-Hint2: The animation may be blocked by your security system. The blocking can be disabled as follows: 
-¬	Start > Control Panel > Java icon > Security > Edit Site List … > Add > Enter URL > OK
-
+Hint: Use pause and single step to follow along in explaning and clarifying text.
 
 ##Exercise 2
 
