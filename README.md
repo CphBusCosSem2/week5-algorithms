@@ -7,9 +7,11 @@ Topics: Algorithms, Recursion, Collections and Complexity
 * [Theory of algorithms & big-O notation](study/ComparingAlgorithms-ComplexityTheory.pdf)
 * [How to measure execution time in Java](study/SestoftMicrobenchmarking.pdf)
 
+An alternative document to read wich covers approximately the same curriculum is [Peter Sestofts note on Search and Sort](study/SestoftSearchAndSort.pdf)
+
 ##Day 1 - Collections and efficiency
 The goal is to get an understanding of how one views efficiency of computer programs. 
-
+* [Readings](study/ComparingAlgorithms-ComplexityTheory.pdf)
 * [Exercises](study/day1exercises.md)
 
 ##Day 2 - Recursion & binary trees
@@ -28,6 +30,17 @@ The video's from Lynda.com gives the basics.
 
 ##Day 3 - Recursive sorting algorithms
 Sorting is one of the most important fundamental issues in computing - we will look at some of the recursive sorting algorithms.
+In particular we will look at merge sort and quick sort.
+
+### Readings for quicksort
+
+* [Slides](slides/day3Rekursive sorting algorithms.pptx)
+* [Animation](http://me.dt.in.th/page/Quicksort/)
+
+### Readings for mergesort
+
+* [Slides](slides/day3Rekursive sorting algorithms.pptx)
+* [Animation](http://visualgo.net/sorting) - pick merge sort
 
 ##Day 4 - Recap & Database indexing
 Today we will work on a few more algorithms and datastructures to ground the previous few days.
