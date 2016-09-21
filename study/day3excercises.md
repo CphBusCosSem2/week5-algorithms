@@ -46,7 +46,7 @@ The sort() method is heavily overloaded. Make a small check for whether the libr
 
 ##Exercise 3
 
-See the Merge Sort - animation on http://visualgo.net/sorting> several times until you understand the principle behind the algorithm. There are also some animations on <https://en.wikipedia.org/wiki/Merge_sort>.
+See the Merge Sort - animation on <http://visualgo.net/sorting> several times until you understand the principle behind the algorithm. There are also some animations on <https://en.wikipedia.org/wiki/Merge_sort>.
 
 
 
