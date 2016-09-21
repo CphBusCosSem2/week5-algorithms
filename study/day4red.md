@@ -42,3 +42,14 @@ Write a method which takes board size N as input, and returns the number of solu
 How many solutions exist for each board sizes up to 8?
 
 What is the growth rate of the queens problem?
+
+###Heap sort
+Heap sort is an interesting sorting algorithm, as it is always _O_(n·log<sub>2</sub>(n)), and it sorts without using only the array itself, that is it does not need to copy elements back and forth like merge sort.
+###a)
+Figure out what the two phases of a heap sort are? It is necessary to understand how a heap work before trying to implement it. Find an animation which explains it. Write the algorithm in pseudo code.
+
+###b)
+Implement the heapsort algorithm. As always, use a helper method for swapping. 
+
+###c) 
+Why is this algorithm _O_(n·log<sub>2</sub>(n))?
